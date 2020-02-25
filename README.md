@@ -12,7 +12,6 @@ We created two different models, each using different machine learning solutions
 We needed to create a dataset containing substantial amount of photos. Therefore, we created a simple program that loads a large picture, resizes it to 
 a multiplicity of 224 and cuts it into smaller pictures (224x224px)
  - #### App.ipynb
- - 
 Program that loads photos made by probe and 
 pre-trained weights to generate final output of this branch of project.
  - #### Test.png
