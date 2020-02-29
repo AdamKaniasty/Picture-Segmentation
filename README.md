@@ -1,8 +1,8 @@
 # CanSat Picture-Segmentation
 
-Object-Segmentation model created for Project Trailblazer’s project in 2019/2020 CanSat competition. Program divides pictures taken by our probe into categories like forest, grass, sand. 
+Object-Segmentation model created for Project Trailblazer’s project in 2019/2020 CanSat competition. Program divides pictures taken by our probe into categories such as forest, grass, sand. 
 
-In this project we used solutions such as: NumPy, PIL, PyTorch, TensorFlow
+In this project we used Python and it's libraries, eg.:  NumPy, PIL, PyTorch, TensorFlow
 ## Folder structure
 We created two different models, each using different machine learning solutions.
 ### Both projects contain
