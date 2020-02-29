@@ -28,7 +28,10 @@ Program that loads photos from data folder and uses RandomForestClassifier to ge
  
 
 ## Example
-jdjdjd
+![ex1](https://user-images.githubusercontent.com/60275941/75607275-aaf6a680-5af5-11ea-8566-934cc3ebf099.png)
+Photo made by CanSat's camera<br/>
+![ex1-m](https://user-images.githubusercontent.com/60275941/75607278-ac27d380-5af5-11ea-8ff8-8fe782e37d4d.png)
+Output of the program
 ## Author
 
 **Adam Kaniasty** as a member of [Project Trailblazer](http://www.project-trailblazer.pl/) Team.
